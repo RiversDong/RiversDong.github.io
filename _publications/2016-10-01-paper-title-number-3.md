@@ -1,0 +1,1 @@
+Dong C, Yuan YZ, Zhang FZ, Hua HL, Ye YN, Labena AA, Lin H, Chen W, Guo FB* (2016) Combining pseudo dinucleotide composition with the Z curve method to improve the accuracy of predicting DNA elements: a case study in recombination spots. Mol Biosyst. 12(9):2893-900.
