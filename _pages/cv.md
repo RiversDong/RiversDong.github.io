@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Dezhou university, 2010-2014
+* M.S. UESTC, 2014-2016
+* Ph.D UESTC, 2016-2018
+* Ph.D joint-training UChicago, 2018-Now
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatics
+* Statistics
+* python
+* R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+2018 第12届计算系统生物学国际会议 / 贵阳，中国 / 分会场报告
   
-Teaching
+Research
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 新基因的起源与演化
+生物在演化过程中伴随着新基因的产生，新基因或者称为年轻基因（young gene）指的是对于所要研究的个体，最近才产生的基因。因此，新基因（年轻基因）在远缘的物种中不存在，仅仅存在于近缘的物种中。新基因促进了生物表型的演化。该研究兴趣主要以果蝇为模型，基于第三代测序技术注释不同果蝇物种的基因年龄，更加精细地推断新基因的起源机制，以及新基因在演化过程种所扮演的功能。
+* 抗CRISPR-Cas蛋白（Acrs）和CRISPR-Cas系统
+CRISPR-Cas是细菌广泛采用的免疫机制，可以对抗噬菌体和其它可移动元件的入侵；Acr则是噬菌体采用的对抗细菌CRISPR-Cas系统的反制措施。两者很好的体现了演化中的“红皇后假说”。该研究兴趣主要基中在CRISPR-Cas的识别，注释分类；Acrs的生物信息学发现，以及两者之间的共进化关系。
