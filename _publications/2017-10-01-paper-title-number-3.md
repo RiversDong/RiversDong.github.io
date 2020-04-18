@@ -1,1 +1,0 @@
-Guo FB*, Dong C, Hua HL, Liu S, Luo H, Zhang HW, Jin YT, Zhang KY. (2017) Accurate prediction of human essential genes using only nucleotide composition and association information. Bioinformatics. 33 (12): 1758-1764
